@@ -5,7 +5,7 @@
  * Date: 2018/1/27
  * Time: AM7:15
  */
-use wm00689\template\music\LoginAsset;
+use wm00689\assets\music\LoginAsset;
 use yii\helpers\Html;
 use yii\helpers\Url;
 use yii\helpers\VarDumper;
